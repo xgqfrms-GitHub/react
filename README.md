@@ -3,9 +3,6 @@
 [http://react.webgeeker.xyz](http://react.webgeeker.xyz)
 
 ***
-*** 
-
-# Downloads 
 
 [Downloads](https://facebook.github.io/react/downloads.html)
 
@@ -48,11 +45,11 @@
 我们建议从NPM安装使用React ,连同一个打包器, 如browserify或WebPack。
 
 ```sh
+# 建议 --save react react-dom
 >$ npm install --save react react-dom
 
-npm install --save react react-dom
-
-npm install -g react-cli
+# 建议-g react-cli
+>$ npm install -g react-cli
 
 # [http://browserify.org/](http://browserify.org/)  
 >$ npm install -g browserify
@@ -84,5 +81,6 @@ ReactDOM.render(<App />, ...);
 
 # [https://bower.io/](https://bower.io/)  
 ```
+
 
 
