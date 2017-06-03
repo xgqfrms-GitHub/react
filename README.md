@@ -20,7 +20,8 @@
 
 > React 15.3.2 (development) / React with Add-Ons 15.3.2 (development)
 
-```js
+```html
+    
 //(你需要两个文件: react.js & react-dom.js)  
 <script src="https://unpkg.com/react@15.3.2/dist/react.js"></script>  
 <script src="https://unpkg.com/react-dom@15.3.2/dist/react-dom.js"></script>  
@@ -32,7 +33,7 @@
 
 > React 15.3.2 (production) / React with Add-Ons 15.3.2 (production)
 
-```js
+```html
 <script src="https://unpkg.com/react@15.3.2/dist/react.min.js"></script>  
 <script src="https://unpkg.com/react-dom@15.3.2/dist/react-dom.min.js"></script>  
 
@@ -60,7 +61,8 @@
 
 > 可以使用：
 
-```code
+```jsx
+    
 var React = require('react');  
 var ReactDOM = require('react-dom');  
 ReactDOM.render(<App />, ...);  
@@ -88,15 +90,15 @@ ReactDOM.render(<App />, ...);
 
 ## recommend using React with npm.md
 
-![建议-g react-cli](images/React-cli(建议-g react-cli).png)  
+![建议-g react-cli](https://raw.githubusercontent.com/xgqfrms-GitHub/react/gh-pages/images/React-cli(%E5%BB%BA%E8%AE%AE-g%20react-cli).png)  
 
 ## recommend using React with npm.md 
 
-![建议 --save react react-dom](images/react & react-dom (建议 --save react react-dom).png)  
+![建议 --save react react-dom](https://raw.githubusercontent.com/xgqfrms-GitHub/react/gh-pages/images/react%20%26%20react-dom%20(%E5%BB%BA%E8%AE%AE%20--save%20react%20react-dom).png)  
 
 
 
-[recommend using React with npm.md](recommend using React with npm.md)
+[recommend using React with npm.md](recommend%20using%20React%20with%20npm.md)
 
 
 
